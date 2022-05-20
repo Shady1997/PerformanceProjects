@@ -1,0 +1,1 @@
+jmeter -q "%cd%\conf.properties"

@@ -1,0 +1,43 @@
+2022-05-02 19:08:37,609 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-05-02 19:08:37,633 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.4.1\bin\user.properties
+2022-05-02 19:08:37,635 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.4.1\bin\system.properties
+2022-05-02 19:08:37,636 INFO o.a.j.JMeter: Loading additional properties from: C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript\conf.properties
+2022-05-02 19:08:37,653 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-05-02 19:08:37,653 INFO o.a.j.JMeter: Version 5.4.1
+2022-05-02 19:08:37,653 INFO o.a.j.JMeter: java.version=1.8.0_311
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: os.name=Windows 10
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: os.arch=amd64
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: os.version=10.0
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: java.awt.headless=null
+2022-05-02 19:08:37,654 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-05-02 19:08:37,655 INFO o.a.j.JMeter: Available Processors =8
+2022-05-02 19:08:37,665 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-05-02 19:08:37,666 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-05-02 19:08:37,666 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.4.1
+2022-05-02 19:08:37,666 INFO o.a.j.JMeter: user.dir  =C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript
+2022-05-02 19:08:37,666 INFO o.a.j.JMeter: PWD       =C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript
+2022-05-02 19:08:37,671 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: EGCA1-0091 FullName: 192.168.56.1
+2022-05-02 19:08:37,968 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-05-02 19:08:39,432 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-05-02 19:08:59,272 INFO o.a.j.s.FileServer: Default base='C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript'
+2022-05-02 19:08:59,277 INFO o.a.j.g.a.Load: Loading file: C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript\NopCommerceWebApp.jmx
+2022-05-02 19:08:59,277 INFO o.a.j.s.FileServer: Set new base='C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript'
+2022-05-02 19:08:59,450 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-05-02 19:08:59,474 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-05-02 19:08:59,475 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-05-02 19:08:59,477 INFO o.a.j.s.SaveService: Loading file: C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript\NopCommerceWebApp.jmx
+2022-05-02 19:08:59,508 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2022-05-02 19:08:59,510 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2022-05-02 19:08:59,516 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-02 19:08:59,517 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-02 19:08:59,517 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-02 19:08:59,517 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-02 19:08:59,517 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-05-02 19:08:59,517 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-05-02 19:08:59,839 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-05-02 19:08:59,840 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-05-02 19:08:59,840 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-05-02 19:08:59,840 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-05-02 19:09:00,111 INFO o.a.j.s.FileServer: Set new base='C:\Users\G525585\eclipse-workspace\NopCommercePerformanceScript'

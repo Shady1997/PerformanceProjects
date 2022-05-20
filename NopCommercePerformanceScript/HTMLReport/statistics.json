@@ -1,0 +1,50 @@
+{
+  "https://demo.nopcommerce.com/" : {
+    "transaction" : "https://demo.nopcommerce.com/",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4353.0,
+    "medianResTime" : 4353.0,
+    "minResTime" : 4353.0,
+    "maxResTime" : 4353.0,
+    "pct1ResTime" : 4353.0,
+    "pct2ResTime" : 4353.0,
+    "pct3ResTime" : 4353.0,
+    "throughput" : 0.22972662531587412,
+    "receivedKBytesPerSec" : 172.96822055191822,
+    "sentKBytesPerSec" : 2.8303038134619802
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4353.0,
+    "medianResTime" : 4353.0,
+    "minResTime" : 4353.0,
+    "maxResTime" : 4353.0,
+    "pct1ResTime" : 4353.0,
+    "pct2ResTime" : 4353.0,
+    "pct3ResTime" : 4353.0,
+    "throughput" : 0.22972662531587412,
+    "receivedKBytesPerSec" : 172.96822055191822,
+    "sentKBytesPerSec" : 2.8303038134619802
+  },
+  "StartApp" : {
+    "transaction" : "StartApp",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4353.0,
+    "medianResTime" : 4353.0,
+    "minResTime" : 4353.0,
+    "maxResTime" : 4353.0,
+    "pct1ResTime" : 4353.0,
+    "pct2ResTime" : 4353.0,
+    "pct3ResTime" : 4353.0,
+    "throughput" : 0.22972662531587412,
+    "receivedKBytesPerSec" : 172.96822055191822,
+    "sentKBytesPerSec" : 2.8303038134619802
+  }
+}
